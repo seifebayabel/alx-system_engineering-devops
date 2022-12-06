@@ -1,0 +1,2 @@
+##!/bin/bash
+ttail /etc/password
